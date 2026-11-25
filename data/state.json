@@ -350,6 +350,11 @@
       "notified_at": "2026-11-25T14:24:53.720643+09:00",
       "profile": "지적측량 용역",
       "notice_type": "bid"
+    },
+    "R26BK01853902-000": {
+      "notified_at": "2026-11-25T17:21:25.084774+09:00",
+      "profile": "지적측량 용역",
+      "notice_type": "bid"
     }
   },
   "notified_prebids": {
@@ -430,6 +435,11 @@
     },
     "R26BD00304915": {
       "notified_at": "2026-11-23T16:25:39.629207+09:00",
+      "profile": "지적측량 용역",
+      "notice_type": "prebid"
+    },
+    "R26BD00306627": {
+      "notified_at": "2026-11-25T17:21:21.597635+09:00",
       "profile": "지적측량 용역",
       "notice_type": "prebid"
     }
